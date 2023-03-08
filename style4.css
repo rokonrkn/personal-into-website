@@ -1,0 +1,89 @@
+body{
+    margin: 0px;
+}
+.half-container{
+    display: flex;
+    background-image: url("header-bg.png");
+    background-size: 100%;
+}
+.single-design{
+  background-image: url("biography-bg.png");
+}
+.whight{
+    width: 40%;
+    margin-left: 8%;
+    margin-top: 5%;
+    margin-right: 5%;
+    padding: 4px;
+}
+.whight img{
+    width: 100%;
+}
+#font-color{
+    color: orange;
+
+}
+h1{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 35px;
+}
+#style-font{
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.div-flex{
+    display: flex;
+    width: 100%;
+    background-image: url("latest-work-bg.png");
+    background-size: 100%;
+}
+#margin-firstimage{
+   margin-left: 10%;
+}
+#margin-secondimage{
+    margin-right: 3%;
+}
+#margin-thirdimage{
+    margin-right: 10%;
+}
+.sizing{
+    margin: 2%;
+    margin-top: 5%;
+}
+#uniqe-title{
+    margin-left: 34%;
+    margin-top: 10%;
+    font-family:'Courier New', Courier, monospace;
+    
+}
+.uniqe-titlee{
+    text-align: center;
+    margin-top: 5%;
+}
+.title{
+  color: gray;
+  text-align: center;
+  margin: 1px;
+}
+.alien-title{
+  text-align: center;
+}
+.design{
+    background-color: blueviolet;
+    height: 100px;
+    margin-top: 10%;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 5px;
+    margin-bottom: 15%;
+    text-align: center;
+    padding: 4px;
+}
+#text-size{
+    font-size: 20px;
+}
+#class{
+    text-align: center;
+    color: orange;
+
+}
